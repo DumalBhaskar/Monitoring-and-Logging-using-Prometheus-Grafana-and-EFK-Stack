@@ -6,4 +6,4 @@ Kubernetes Cluster monitoring and Logging
    
 ## Project Architecture
 
-![Architecture diagram](Untitled Diagram.drawio)
+![Architecture diagram](UntitledDiagram.drawio.png)
